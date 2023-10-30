@@ -1,0 +1,17 @@
+-> add new function to header file
+-> update the make file
+	-> puts one object file to the archive
+-> put new function in different source file (compile it too)
+
+#Test Program
+
+x = strtoint("42");
+y = stroint("2a_16");
+...
+print("The ag in decimal is: %d\n", strtoint(argv[1])};
+
+
+int strtoint(char *s)
+
+strtoint('2') =~ strtoint(50)
+strtoint("2") = strtoint(0x555939393908); /**use this/
